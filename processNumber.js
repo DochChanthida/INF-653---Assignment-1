@@ -26,7 +26,7 @@ function processNumber(num) {
     } catch (error) {
         console.log("Error:", error.message);
     } finally {
-        console.log("Processing completed."); execution
+        console.log("Processing completed."); 
     }
 }
 
